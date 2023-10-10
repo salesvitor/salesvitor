@@ -1,8 +1,12 @@
-# Hello World
+`print ("Hello World!")`
 
+# Hello World! :wave:
 
-- 👋 Hi, I’m @salesvitor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+* 😄 Meu nome é Vitor Sales
+* 🤓 Sou estudante de Sistemas de Informação 
+
+# Estudando Atualmente 📖
+
+* HTML
+* CSS
+* JavaScript
