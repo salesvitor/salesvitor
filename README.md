@@ -7,6 +7,9 @@
 
 # Estudando Atualmente 📖
 
-* HTML
-* CSS
-* JavaScript
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,figma,git,github)](https://skillicons.dev)
+
+# Redes Sociais
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram,discord)](https://skillicons.dev)
+
